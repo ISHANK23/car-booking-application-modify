@@ -15,7 +15,3 @@ Video Walkthrough
 -----------------
 YouTube link: <insert video URL demonstrating the fixes and OAuth flow>
 
-Notes
------
-* Update the placeholders above with the final submission details before delivering the assignment.
-* The accompanying `report.pdf` summarises the identified vulnerabilities, fixes and the OAuth integration.
