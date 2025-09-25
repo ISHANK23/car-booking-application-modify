@@ -13,5 +13,5 @@ Hardened project repository: https://github.com/ISHANK23/car-booking-application
 
 Video Walkthrough
 -----------------
-YouTube link: <insert video URL demonstrating the fixes and OAuth flow>
+YouTube link: https://youtu.be/YzdQe3R2iF8
 
