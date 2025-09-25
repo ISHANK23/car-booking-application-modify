@@ -11,6 +11,7 @@ Member
 Project Links
 -------------
 Original project repository: https://github.com/ISHANK23/car-booking-application-Not_modify.git
+
 Hardened project repository: https://github.com/ISHANK23/car-booking-application-modify.git
 
 Video Walkthrough
@@ -22,8 +23,11 @@ YouTube link: <insert video URL demonstrating the fixes and OAuth flow>
 Inside this file 'inc/connection.inc.php' configure your details. 
 
 $host = getenv('DB_HOST') ?: 'localhost';
+
 $user = getenv('DB_USER') ?: 'root';
+
 $password = getenv('DB_PASSWORD') ?: 'Add your password here';
+
 $database = getenv('DB_NAME') ?: 'rentcar';
 
 ## Database
